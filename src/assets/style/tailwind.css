@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+    .position-initial {
+      position: initial;
+    }
+    .bg-32 {
+        background-size: 32px;
+    }
+    .bg-24 {
+        background-size: 24px;
+    }
+    .bg-21 {
+        background-size: 21px;
+    }
+    .bg-100 {
+        background-size: 100%;
+    }
+    .bg-200 {
+        background-size: 5100px;
+    }
+}

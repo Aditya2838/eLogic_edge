@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1580" height="389.485" viewBox="0 0 1580 389.485">
+  <g id="Group_162203" data-name="Group 162203" transform="translate(19002 3429)">
+    <text id="Timeline" transform="translate(-19002 -3408)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Timeline</tspan></text>
+    <rect id="Rectangle_149795" data-name="Rectangle 149795" width="1580" height="343" transform="translate(-19002 -3383)" fill="#222c40"/>
+    <g id="Group_162162" data-name="Group 162162" transform="translate(-19002 -3383)">
+      <rect id="Rectangle_149763" data-name="Rectangle 149763" width="1580" height="56" fill="#537ee8"/>
+      <text id="Milling" transform="translate(18 34)" fill="#fff" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Milling</tspan></text>
+    </g>
+    <g id="Group_162181" data-name="Group 162181" transform="translate(-18984 -3319)">
+      <rect id="Rectangle_149764" data-name="Rectangle 149764" width="259" height="53" rx="10" fill="#2f3c54"/>
+      <text id="CNC_Machine" data-name="CNC Machine" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC Machine</tspan></text>
+    </g>
+    <g id="Group_162183" data-name="Group 162183" transform="translate(-18984 -3179.027)">
+      <rect id="Rectangle_149766" data-name="Rectangle 149766" width="259" height="53" rx="10" transform="translate(0 0.027)" fill="#2f3c54"/>
+      <text id="Air_Pressure_Machine" data-name="Air Pressure Machine" transform="translate(21 32.027)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Air Pressure Machine</tspan></text>
+    </g>
+    <g id="Group_162193" data-name="Group 162193" transform="translate(-18983 -3109.005)">
+      <rect id="Rectangle_149767" data-name="Rectangle 149767" width="259" height="53" rx="10" transform="translate(0 0.005)" fill="#2f3c54"/>
+      <text id="Compressor" transform="translate(18 32.005)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Compressor</tspan></text>
+    </g>
+    <g id="Group_162182" data-name="Group 162182" transform="translate(-18984 -3249.094)">
+      <rect id="Rectangle_149765" data-name="Rectangle 149765" width="259" height="53" rx="10" transform="translate(0 0.094)" fill="#2f3c54"/>
+      <text id="Motor" transform="translate(21 32.094)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Motor</tspan></text>
+    </g>
+    <line id="Line_727" data-name="Line 727" y2="343.485" transform="translate(-18704.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_726" data-name="Line 726" y2="343.485" transform="translate(-18639.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_725" data-name="Line 725" y2="343.485" transform="translate(-18574.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_724" data-name="Line 724" y2="343.485" transform="translate(-18510.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_723" data-name="Line 723" y2="343.485" transform="translate(-18445.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_722" data-name="Line 722" y2="343.485" transform="translate(-18380.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_721" data-name="Line 721" y2="343.485" transform="translate(-18315.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_719" data-name="Line 719" y2="343.485" transform="translate(-18250.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_720" data-name="Line 720" y2="343.485" transform="translate(-18186.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_717" data-name="Line 717" y2="343.485" transform="translate(-18121.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_718" data-name="Line 718" y2="343.485" transform="translate(-18056.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_708" data-name="Line 708" y2="343.485" transform="translate(-17991.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_709" data-name="Line 709" y2="343.485" transform="translate(-17927.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_710" data-name="Line 710" y2="343.485" transform="translate(-17862.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_711" data-name="Line 711" y2="343.485" transform="translate(-17797.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_712" data-name="Line 712" y2="343.485" transform="translate(-17732.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_713" data-name="Line 713" y2="343.485" transform="translate(-17667.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_714" data-name="Line 714" y2="343.485" transform="translate(-17603.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_715" data-name="Line 715" y2="343.485" transform="translate(-17538.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_707" data-name="Line 707" y2="343.485" transform="translate(-17473.5 -3383)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_729" data-name="Line 729" x1="1580" transform="translate(-19002 -3117.5)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_728" data-name="Line 728" x1="1580" transform="translate(-19002 -3187.5)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <line id="Line_716" data-name="Line 716" x1="1580" transform="translate(-19002 -3257.5)" fill="none" stroke="#33528b" stroke-width="2"/>
+    <g id="Group_162179" data-name="Group 162179" transform="translate(-18700 -3319)">
+      <rect id="Rectangle_149764-2" data-name="Rectangle 149764" width="259" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_-_18_min_30Sec_" data-name="Downtime - 18 min 30Sec " transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime - 18 min 30Sec </tspan></text>
+    </g>
+    <g id="Group_162163" data-name="Group 162163" transform="translate(-17595 -3319)">
+      <rect id="Rectangle_149764-3" data-name="Rectangle 149764" width="160" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_-_16_min_2" data-name="Downtime - 16 min 2" transform="translate(14 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime - 16 min 2</tspan></text>
+    </g>
+    <g id="Group_162164" data-name="Group 162164" transform="translate(-17595 -3249)">
+      <rect id="Rectangle_149764-4" data-name="Rectangle 149764" width="160" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_-_16_min_2-2" data-name="Downtime - 16 min 2" transform="translate(14 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime - 16 min 2</tspan></text>
+    </g>
+    <g id="Group_162184" data-name="Group 162184" transform="translate(-17595 -3179)">
+      <rect id="Rectangle_149764-5" data-name="Rectangle 149764" width="160" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_-_16_min_2-3" data-name="Downtime - 16 min 2" transform="translate(14 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime - 16 min 2</tspan></text>
+    </g>
+    <g id="Group_162194" data-name="Group 162194" transform="translate(-17595 -3109)">
+      <rect id="Rectangle_149764-6" data-name="Rectangle 149764" width="160" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_-_16_min_2-4" data-name="Downtime - 16 min 2" transform="translate(14 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime - 16 min 2</tspan></text>
+    </g>
+    <g id="Group_162180" data-name="Group 162180" transform="translate(-18700 -3249)">
+      <rect id="Rectangle_149764-7" data-name="Rectangle 149764" width="259" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_-_18_min_30Sec_2" data-name="Downtime - 18 min 30Sec " transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime - 18 min 30Sec </tspan></text>
+    </g>
+    <g id="Group_162185" data-name="Group 162185" transform="translate(-18700 -3179)">
+      <rect id="Rectangle_149764-8" data-name="Rectangle 149764" width="259" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_-_18_min_30Sec_Inspec_" data-name="Downtime - 18 min 30Sec , Inspec " transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime - 18 min 30Sec , Inspec </tspan></text>
+    </g>
+    <g id="Group_162195" data-name="Group 162195" transform="translate(-18700 -3109)">
+      <rect id="Rectangle_149764-9" data-name="Rectangle 149764" width="259" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_-_18_min_30Sec_Inspec_2" data-name="Downtime - 18 min 30Sec , Inspec " transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime - 18 min 30Sec , Inspec </tspan></text>
+    </g>
+    <g id="Group_162175" data-name="Group 162175" transform="translate(-18165 -3319)">
+      <rect id="Rectangle_149764-10" data-name="Rectangle 149764" width="109" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_" data-name="Downtime " transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime </tspan></text>
+    </g>
+    <g id="Group_162176" data-name="Group 162176" transform="translate(-18165 -3249)">
+      <rect id="Rectangle_149764-11" data-name="Rectangle 149764" width="109" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_2" data-name="Downtime " transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime </tspan></text>
+    </g>
+    <g id="Group_162186" data-name="Group 162186" transform="translate(-18165 -3179)">
+      <rect id="Rectangle_149764-12" data-name="Rectangle 149764" width="109" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_3" data-name="Downtime " transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime </tspan></text>
+    </g>
+    <g id="Group_162196" data-name="Group 162196" transform="translate(-18165 -3109)">
+      <rect id="Rectangle_149764-13" data-name="Rectangle 149764" width="109" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_4" data-name="Downtime " transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime </tspan></text>
+    </g>
+    <g id="Group_162165" data-name="Group 162165" transform="translate(-17812 -3319)">
+      <rect id="Rectangle_149764-14" data-name="Rectangle 149764" width="109" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_5" data-name="Downtime " transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime </tspan></text>
+    </g>
+    <g id="Group_162166" data-name="Group 162166" transform="translate(-17812 -3249)">
+      <rect id="Rectangle_149764-15" data-name="Rectangle 149764" width="109" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_6" data-name="Downtime " transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime </tspan></text>
+    </g>
+    <g id="Group_162187" data-name="Group 162187" transform="translate(-17812 -3179)">
+      <rect id="Rectangle_149764-16" data-name="Rectangle 149764" width="109" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_7" data-name="Downtime " transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime </tspan></text>
+    </g>
+    <g id="Group_162197" data-name="Group 162197" transform="translate(-17812 -3109)">
+      <rect id="Rectangle_149764-17" data-name="Rectangle 149764" width="109" height="53" rx="10" fill="#4465a2"/>
+      <text id="Downtime_8" data-name="Downtime " transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Downtime </tspan></text>
+    </g>
+    <g id="Group_162167" data-name="Group 162167" transform="translate(-17948 -3319)">
+      <rect id="Rectangle_149764-18" data-name="Rectangle 149764" width="51" height="53" rx="10" fill="#4465a2"/>
+      <text id="Dow" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Dow</tspan></text>
+    </g>
+    <g id="Group_162168" data-name="Group 162168" transform="translate(-17948 -3249)">
+      <rect id="Rectangle_149764-19" data-name="Rectangle 149764" width="51" height="53" rx="10" fill="#4465a2"/>
+      <text id="Dow-2" data-name="Dow" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Dow</tspan></text>
+    </g>
+    <g id="Group_162188" data-name="Group 162188" transform="translate(-17948 -3179)">
+      <rect id="Rectangle_149764-20" data-name="Rectangle 149764" width="51" height="53" rx="10" fill="#4465a2"/>
+      <text id="Dow-3" data-name="Dow" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Dow</tspan></text>
+    </g>
+    <g id="Group_162198" data-name="Group 162198" transform="translate(-17948 -3109)">
+      <rect id="Rectangle_149764-21" data-name="Rectangle 149764" width="51" height="53" rx="10" fill="#4465a2"/>
+      <text id="Dow-4" data-name="Dow" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Dow</tspan></text>
+    </g>
+    <g id="Group_162177" data-name="Group 162177" transform="translate(-18432 -3319)">
+      <rect id="Rectangle_149764-22" data-name="Rectangle 149764" width="259" height="53" rx="10" fill="#44a24b"/>
+      <text id="Process_ID_1365_-_18_min_30Sec" data-name="Process ID #1365 -  18 min 30Sec" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0" xml:space="preserve">Process ID #1365 -  18 min 30Sec</tspan></text>
+    </g>
+    <g id="Group_162178" data-name="Group 162178" transform="translate(-18432 -3249)">
+      <rect id="Rectangle_149764-23" data-name="Rectangle 149764" width="259" height="53" rx="10" fill="#44a24b"/>
+      <text id="Process_ID_694_-_18_min_30Sec" data-name="Process ID #694 -  18 min 30Sec" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0" xml:space="preserve">Process ID #694 -  18 min 30Sec</tspan></text>
+    </g>
+    <g id="Group_162189" data-name="Group 162189" transform="translate(-18432 -3179)">
+      <rect id="Rectangle_149764-24" data-name="Rectangle 149764" width="259" height="53" rx="10" fill="#44a24b"/>
+      <text id="Process_ID_1365_-_18_min_30Sec-2" data-name="Process ID #1365 -  18 min 30Sec" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0" xml:space="preserve">Process ID #1365 -  18 min 30Sec</tspan></text>
+    </g>
+    <g id="Group_162199" data-name="Group 162199" transform="translate(-18432 -3109)">
+      <rect id="Rectangle_149764-25" data-name="Rectangle 149764" width="259" height="53" rx="10" fill="#44a24b"/>
+      <text id="Process_ID_25694_-_18_min_30Se" data-name="Process ID #25694 -  18 min 30Se" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0" xml:space="preserve">Process ID #25694 -  18 min 30Se</tspan></text>
+    </g>
+    <g id="Group_162169" data-name="Group 162169" transform="translate(-18047 -3319)">
+      <rect id="Rectangle_149764-26" data-name="Rectangle 149764" width="91" height="53" rx="10" fill="#44a24b"/>
+      <text id="CNC" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC</tspan></text>
+    </g>
+    <g id="Group_162170" data-name="Group 162170" transform="translate(-18047 -3249)">
+      <rect id="Rectangle_149764-27" data-name="Rectangle 149764" width="91" height="53" rx="10" fill="#44a24b"/>
+      <text id="CNC-2" data-name="CNC" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC</tspan></text>
+    </g>
+    <g id="Group_162190" data-name="Group 162190" transform="translate(-18047 -3179)">
+      <rect id="Rectangle_149764-28" data-name="Rectangle 149764" width="91" height="53" rx="10" fill="#44a24b"/>
+      <text id="CNC-3" data-name="CNC" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC</tspan></text>
+    </g>
+    <g id="Group_162200" data-name="Group 162200" transform="translate(-18047 -3109)">
+      <rect id="Rectangle_149764-29" data-name="Rectangle 149764" width="91" height="53" rx="10" fill="#44a24b"/>
+      <text id="CNC-4" data-name="CNC" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC</tspan></text>
+    </g>
+    <g id="Group_162171" data-name="Group 162171" transform="translate(-17694 -3319)">
+      <rect id="Rectangle_149764-30" data-name="Rectangle 149764" width="91" height="53" rx="10" fill="#44a24b"/>
+      <text id="CNC-5" data-name="CNC" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC</tspan></text>
+    </g>
+    <g id="Group_162172" data-name="Group 162172" transform="translate(-17694 -3249)">
+      <rect id="Rectangle_149764-31" data-name="Rectangle 149764" width="91" height="53" rx="10" fill="#44a24b"/>
+      <text id="CNC-6" data-name="CNC" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC</tspan></text>
+    </g>
+    <g id="Group_162191" data-name="Group 162191" transform="translate(-17694 -3179)">
+      <rect id="Rectangle_149764-32" data-name="Rectangle 149764" width="91" height="53" rx="10" fill="#44a24b"/>
+      <text id="CNC-7" data-name="CNC" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC</tspan></text>
+    </g>
+    <g id="Group_162201" data-name="Group 162201" transform="translate(-17694 -3109)">
+      <rect id="Rectangle_149764-33" data-name="Rectangle 149764" width="91" height="53" rx="10" fill="#44a24b"/>
+      <text id="CNC-8" data-name="CNC" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC</tspan></text>
+    </g>
+    <g id="Group_162173" data-name="Group 162173" transform="translate(-17888 -3319)">
+      <rect id="Rectangle_149764-34" data-name="Rectangle 149764" width="68" height="53" rx="10" fill="#44a24b"/>
+      <text id="CNC-9" data-name="CNC" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC</tspan></text>
+    </g>
+    <g id="Group_162174" data-name="Group 162174" transform="translate(-17888 -3249)">
+      <rect id="Rectangle_149764-35" data-name="Rectangle 149764" width="68" height="53" rx="10" fill="#44a24b"/>
+      <text id="CNC-10" data-name="CNC" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC</tspan></text>
+    </g>
+    <g id="Group_162192" data-name="Group 162192" transform="translate(-17888 -3179)">
+      <rect id="Rectangle_149764-36" data-name="Rectangle 149764" width="68" height="53" rx="10" fill="#44a24b"/>
+      <text id="CNC-11" data-name="CNC" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC</tspan></text>
+    </g>
+    <g id="Group_162202" data-name="Group 162202" transform="translate(-17888 -3109)">
+      <rect id="Rectangle_149764-37" data-name="Rectangle 149764" width="68" height="53" rx="10" fill="#44a24b"/>
+      <text id="CNC-12" data-name="CNC" transform="translate(21 32)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">CNC</tspan></text>
+    </g>
+    <path id="angle-down_5_" data-name="angle-down (5)" d="M1.01,6.079a1,1,0,0,1,.707.293l5.117,5.117a1.667,1.667,0,0,0,2.358,0L14.3,6.379a1,1,0,1,1,1.415,1.415L10.607,12.9a3.671,3.671,0,0,1-5.187,0L.3,7.787A1,1,0,0,1,1.01,6.079Z" transform="translate(-18741.01 -3365.079)" fill="#fff"/>
+  </g>
+</svg>

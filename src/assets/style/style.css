@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+.font-sora {
+  font-family: "Sora", serif;
+}
+.smooth {
+  transition: all 400ms ease-in-out 0s;
+}
+.font-roboto {
+  font-family: "Roboto", serif;
+}
+.header-sticky .head-action a:hover {
+  background-color: black;
+  color: white;
+}
+
+.expmpl-apps li:last-child .list-points {
+  height: auto;
+}
+.step-card:nth-child(2) .step-line {
+  /* background-image: url("../images/step-card-bg-large.svg"); */
+}
+.imggrdnt::after {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%);
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.timeline-custom {
+  margin-left: 1.6rem;
+}
+.timeline-block {
+  background: linear-gradient(
+      to bottom,
+      rgb(255, 255, 255) 0%,
+      rgba(0, 0, 0, 0) 5%
+    ),
+    linear-gradient(to top, rgb(255, 255, 255) 0%, rgba(0, 0, 0, 0) 5%);
+}
+.step-line{
+  background-size: 100%;
+}
