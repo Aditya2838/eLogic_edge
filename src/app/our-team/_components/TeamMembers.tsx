@@ -6,7 +6,7 @@ import userOne from '@/src/assets/images/prfile-1.jpg'
 import userTwo from '@/src/assets/images/prfile-2.jpg'
 import userThree from '@/src/assets/images/prfile-3.jpg'
 import userFour from '@/src/assets/images/prfile-4.jpg'
-import userFive from '@/src/assets/images/prfile-5.jpg'
+// import userFive from '@/src/assets/images/prfile-5.jpg'
 import userSix from '@/src/assets/images/prfile-6.jpg'
 import userSeven from '@/src/assets/images/prfile-7.jpg'
 import userEight from '@/src/assets/images/prfile-8.jpg'
@@ -30,7 +30,7 @@ import userTwentyFive from '@/src/assets/images/Teamsimages/hemanth.png'
 import userTwentySix from '@/src/assets/images/Teamsimages/Athulya.jpg'
 import userTwentySeven from '@/src/assets/images/Teamsimages/badrinath.png'
 import userTwentyEight from '@/src/assets/images/Teamsimages/Pawan_photo.jpeg'
-import userTwentyNine from '@/src/assets/images/Teamsimages/Bhavani.jpg'
+// import userTwentyNine from '@/src/assets/images/Teamsimages/Bhavani.jpg'
 
 
 
@@ -51,7 +51,7 @@ function TeamMembers() {
         { profileImg: userSixteen, profileName: 'Manasa Telu', desination: 'PCB Design Engineer', linkedinLink: '#' },
          { profileImg: userFifteen, profileName: 'Sandeep Thamatapu ', desination: 'Procurement & Store Manager', linkedinLink: '#' },
          { profileImg: userNine, profileName: 'Shailendra Singh', desination: 'Bussiness Development Assosiate', linkedinLink: '#' },
-        { profileImg: userFive, profileName: 'Palash Balani', desination: 'Business Development Manager', linkedinLink: '#' },
+        // { profileImg: userFive, profileName: 'Palash Balani', desination: 'Business Development Manager', linkedinLink: '#' },
         { profileImg: userSeventeen, profileName: 'Sandeep K', desination: 'Mechnical Designer Engineer', linkedinLink: '#' },
         { profileImg: userEighteen, profileName: 'Kola Murali', desination: 'Embedded Lead', linkedinLink: '#' },
         { profileImg: usernineteen, profileName: 'Naveen Namani', desination: 'Embedded Hardware Engineer', linkedinLink: '#' },
@@ -64,7 +64,7 @@ function TeamMembers() {
         { profileImg: userTwentySix, profileName: 'Athulya J', desination: 'Jr. Embedded Firmware Enginner', linkedinLink: '#' },
         { profileImg: userTwentySeven, profileName: 'Badrinathan J', desination: 'Jr. Embedded Firmware Enginner', linkedinLink: '#' },
          { profileImg: userTwentyEight, profileName: 'Pawan Durga Kalyan', desination: '		Embedded Firmware Enginner', linkedinLink: '#' },
-        { profileImg: userTwentyNine, profileName: 'Thumma Bhavani', desination: 'Marketing Executive', linkedinLink: '#' },
+        // { profileImg: userTwentyNine, profileName: 'Thumma Bhavani', desination: 'Marketing Executive', linkedinLink: '#' },
  
 
 
