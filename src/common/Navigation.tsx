@@ -195,7 +195,7 @@ import { FaChevronDown, FaBars, FaTimes } from "react-icons/fa";
 
       {/* Mobile Menu Button */}
       <button
-        className="min-[768px]:hidden text-white focus:outline-none z-[20]"
+        className="min-[768px]:hidden text-[#3563E9] focus:outline-none z-[20]"
         onClick={toggleMobileMenu}
       >
         {isMobileMenuOpen ? (
@@ -208,7 +208,7 @@ import { FaChevronDown, FaBars, FaTimes } from "react-icons/fa";
       {/* Mobile Menu */}
       <div
         ref={mobileMenuRef}
-        className={`min-[768px]:hidden bg-white w-full absolute left-0 top-[62px] min-h-[calc(100vh_-_62px)] flex flex-col justify-between transition-all duration-300 ${
+        className={`min-[768px]:hidden bg-white w-full absolute left-0 top-[102px] min-h-[calc(100vh_-_62px)] flex flex-col justify-between transition-all duration-300 ${
           isMobileMenuOpen ? "block" : "hidden"
         }`}
       >
@@ -283,7 +283,7 @@ import { FaChevronDown, FaBars, FaTimes } from "react-icons/fa";
           ))}
         </ul>
         
-        <div className="px-[20px] lg:pt-10 md:pt-7 pt-6 pb-5 w-full">
+        <div className="px-[20px] lg:pt-10 md:pt-7 pt-0 pb-14 w-full">
           <Link
             className="bg-[#3563E9] text-white w-full h-[48px] flex justify-center items-center py-[2px] text-[16px] font-semibold rounded-[16px] capitalize duration-500 hover:bg-black hover:text-white"
             href="/contact-us"

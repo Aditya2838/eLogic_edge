@@ -78,7 +78,7 @@ const Slider: React.FC = () => {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 0.8, ease: "easeInOut", delay: 0 }}
-        className="relative ms:pt-0 pt-4 after:absolute after:left-0 after:right-0 after:top-0 after:h-[210px] after:bg-gradient-to-b after:from-black to-[rgba(0,0,0,0)]"
+        className="relative ms:pt-0 pt-14 after:absolute after:left-0 after:right-0 after:top-0 after:h-[210px] after:bg-gradient-to-b after:from-black to-[rgba(0,0,0,0)]"
       >
         <div className="absolute z-[2] left-0 top-0 bottom-0 flex items-center w-full">
           <div className="relative w-full">
